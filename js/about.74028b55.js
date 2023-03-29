@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkresturant_mgtt"]=self["webpackChunkresturant_mgtt"]||[]).push([[443],{1768:function(t,n,a){a.r(n),a.d(n,{default:function(){return l}});var c=a(3396);const r=t=>((0,c.dD)("data-v-6cfcc0d3"),t=t(),(0,c.Cn)(),t),u={class:"about"},e=r((()=>(0,c._)("h1",null,"This is an about page",-1))),s=[e];function d(t,n){return(0,c.wg)(),(0,c.iD)("div",u,s)}var f=a(89);const i={},o=(0,f.Z)(i,[["render",d],["__scopeId","data-v-6cfcc0d3"]]);var l=o}}]);
+//# sourceMappingURL=about.74028b55.js.map
